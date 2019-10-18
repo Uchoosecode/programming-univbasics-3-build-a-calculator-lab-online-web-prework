@@ -26,4 +26,3 @@ modulo(34, 5)
 def square_root(num)
   return num.sqrt
 end
-square_root(81)
